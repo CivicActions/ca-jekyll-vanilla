@@ -29,6 +29,10 @@ url: "https://civicactions.github.io" # the base hostname & protocol for your si
 twitter_username: CivicActions 
 github_username:  civicactions
 
+github_info:
+  organization: civicactions
+  repository: ca-jekyll-vanilla
+
 # Build settings
 remote_theme: 18f/uswds-jekyll
 plugins:
@@ -48,13 +52,10 @@ kramdown:
 #
 exclude:
   - pa11y_output.txt
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor
