@@ -32,6 +32,7 @@ github_username:  civicactions
 github_info:
   organization: civicactions
   repository: ca-jekyll-vanilla
+  default_branch: main
 
 # Build settings
 remote_theme: 18f/uswds-jekyll
