@@ -20,7 +20,7 @@ edit_page:
 
 # Configuration for "Last updated" date and time.
 # Uncomment the following line to show.
-last_updated: true
+last_updated: false
 
 # Configuration for which links show at the top of the footer.
 # this is a key into _data/navigation.yml
