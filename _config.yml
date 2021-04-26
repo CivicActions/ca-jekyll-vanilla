@@ -30,7 +30,7 @@ twitter_username: CivicActions
 github_username:  civicactions
 
 # Build settings
-theme: uswds-jekyll 
+remote_theme: 18f/uswds-jekyll
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
