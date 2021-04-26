@@ -1,0 +1,30 @@
+---
+layout: page
+title: Search
+permalink: /search/
+---
+<div class="">
+    <div class="grid-container">
+        <div class="grid-row">
+            <div class="grid-row grid-gap flex-align-start">
+                <!-- Html Elements for Search -->
+                <div id="search-container">
+                    <label for="search-input" class="usa-sr-only">Enter Search Term(s):</label>
+                    <input type="text" id="search-input">
+                    <ul id="results-container" aria-live="polite"></ul>
+                </div>
+                <!-- Script pointing to search-script.js -->
+                <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+                <!-- Configuration -->
+                <script>
+                  SimpleJekyllSearch({
+                    searchInput: document.getElementById('search-input'),
+                    resultsContainer: document.getElementById('results-container'),
+                    json: '{% if site.baseurl %}{{ site.baseurl }}{% endif %}/search.json',
+                    searchResultTemplate: '<li><a href="{url}">{title}</a></li>'
+                  })
+                </script>
+            </div>
+        </div>
+    </div>
+</div>

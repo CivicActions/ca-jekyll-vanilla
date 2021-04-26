@@ -1,0 +1,12 @@
+.*.swp
+.DS_Store
+.idea
+.bundle/
+.jekyll*
+.sass-cache/
+_site/
+node_modules
+output.log
+site
+pa11y_report
+pa11y_output.json
