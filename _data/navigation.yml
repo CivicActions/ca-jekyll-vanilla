@@ -16,4 +16,11 @@ primary:
     href: /about
   - text: Search
     href: /search
-
+    
+secondary:
+  - text: CivicActions
+    href: https://civicactions.com/
+    
+footer:
+  - text: Accessibility
+    href: https://accessibility.civicactions.com/
