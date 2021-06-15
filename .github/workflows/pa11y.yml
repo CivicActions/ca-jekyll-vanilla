@@ -48,4 +48,3 @@ jobs:
         run: |
           echo "::error::The site is failing accessibility tests. Please review the comment in the pull request or the pa11y-ci step in the workflow for details."
           exit 1
-
