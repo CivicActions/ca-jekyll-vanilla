@@ -10,7 +10,7 @@ assignees: dmundra
 ## To-do:
 
 - [ ] Set up board (copy all columns from previous board - [ex](https://github.com/CivicActions/accessibility/projects/3))
-- [ ] Add new team members to CivicActions GitHub team 
+- [ ] Add new team members to CivicActions GitHub team
 - [ ] Announce to #accessibility channel one week before (see sample text below)
 - [ ] Announce to #accessibility channel day of (see sample text below)
 - [ ] Hold retrospective

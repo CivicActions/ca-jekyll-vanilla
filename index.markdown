@@ -5,9 +5,9 @@ description: CivicActions Jekyll Vanilla site is useful base project to start yo
 layout: home
 
 hero:
-  image: 
+  image:
   callout:
-    alt: 
+    alt:
     text: Work together.
   button:
     href: /about
@@ -34,4 +34,3 @@ graphics:
 ## Get started
 
 Create your site by using this template.
-
