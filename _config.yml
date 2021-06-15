@@ -53,12 +53,17 @@ kramdown:
 #
 exclude:
   - pa11y_output.txt
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
+  - .sass-cache
+  - .jekyll-cache
+  - gemfiles
   - Gemfile
   - Gemfile.lock
-  - node_modules/
+  - node_modules
   - vendor
   - package.json
   - package-lock.json
+  - lint
+  - cypress
+  - cypress.json
+  - .gitignore
+  - .github
