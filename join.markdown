@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join 
+title: Join
 permalink: /join/
 ---
 

@@ -32,12 +32,12 @@ links: footer
 big_footer_signup_form: false
 
 # Configuration for footer heading. (optional)
-heading: CivicActions Vanilla Jekyll Site 
+heading: CivicActions Vanilla Jekyll Site
 
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
 # logos:
-#  - src: 
+#  - src:
 #    alt: CivicActions Accessibility
 #    external: true
 

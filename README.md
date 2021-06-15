@@ -4,7 +4,7 @@ To be added...
 
 ## Development
 
-If you want to replicate this site, you are free to do so. It is a [Jekyll](https://jekyllrb.com/) site sitting on [GitHub Pages](https://pages.github.com/). 
+If you want to replicate this site, you are free to do so. It is a [Jekyll](https://jekyllrb.com/) site sitting on [GitHub Pages](https://pages.github.com/).
 
 ## Contacts
 
