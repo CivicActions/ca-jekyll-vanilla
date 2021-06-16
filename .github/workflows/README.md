@@ -20,6 +20,10 @@ Run remark-lint with reviewdog on pull requests to check for readibility and oth
 
 Run pre-commit hooks to clean up site based on configurations in .pre-commit-config.yaml include searching and replacing smart quotes defined in .pre-commit-search-and-replace.yaml.
 
+## cypress.yml
+
+Run Cypress tests with Axe to check accessibility of the site with axe by interacting with the menu, search, and with different screen sizes.
+
 # References
 
 * https://github.com/pa11y/pa11y
@@ -32,3 +36,5 @@ Run pre-commit hooks to clean up site based on configurations in .pre-commit-con
 * https://stackoverflow.com/questions/57915432/write-output-of-npm-run-start-to-a-file
 * https://github.com/marketplace/actions/comment-pull-request
 * https://pre-commit.com/
+* https://github.com/marketplace/actions/find-and-replace
+* https://github.com/marketplace/actions/publish-unit-test-results
