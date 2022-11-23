@@ -68,6 +68,6 @@ Cypress.Commands.add('checkA11yWithMultipleViewPorts', () => {
 })
 
 Cypress.Commands.add('checkA11yWithSingleViewPort', () => {
-  cy.injectAxe();
-  cy.checkA11y(null, null, terminalLog)
+  cy.injectAxe()
+  cy.checkA11y(null, null, terminalLog, true)
 })

@@ -1,6 +1,6 @@
 # Jekyll Vanilla Site
 
-To be added...
+A starter site for anyone at CivicActions that needs one. E.g. [CA A11y site](https://accessibility.civicactions.com/).
 
 ## Development
 
@@ -10,7 +10,7 @@ If you want to replicate this site, you are free to do so. It is a [Jekyll](http
 
 Email: contacts@civicactions.com
 
-CivicActions Slack: #git-github
+CivicActions Slack: #engineering
 
 ## Licensing
 
