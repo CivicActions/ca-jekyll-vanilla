@@ -1,0 +1,25 @@
+name: Checking links
+
+on:
+  pull_request:
+
+jobs:
+  build:
+    name: Building site and running HTML proofer
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source.
+        uses: actions/checkout@v2
+
+      - name: Install jekyll site dependencies.
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.3
+          bundler-cache: true
+
+      - name: Build site
+        run: npm run build-link-checker
+
+      - name: Run HTML proofer.
+        run: npm run link-checker
