@@ -28,7 +28,7 @@ graphics:
       src: /assets/img/circles/cpu.png
       alt: "CPU icon"
     title: Contribute
-    description: Everyone is welcome. [Learn how you can contribute](join.markdown) to CivicActions Jekyll Vanilla site.
+    description: Everyone is welcome. [Learn how you can contribute](join) to CivicActions Jekyll Vanilla site.
 ---
 
 ## Get started
