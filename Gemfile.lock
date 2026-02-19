@@ -107,7 +107,7 @@ GEM
     mini_portile2 (2.8.9)
     mini_racer (0.8.0)
       libv8-node (~> 18.16.0.0)
-    nokogiri (1.19.0)
+    nokogiri (1.19.1)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     pathutil (0.16.2)
