@@ -14,7 +14,7 @@
     "link-checker": "bundle exec htmlproofer --ignore-status-codes \"999,429,403,302,0\" --ignore-urls \"/fonts.gstatic.com/\" ./_site"
   },
   "devDependencies": {
-    "cypress": "^15.9.0",
+    "cypress": "^15.11.0",
     "cypress-axe": "^1.0.0",
     "pa11y-ci": "^4.0.1"
   }
